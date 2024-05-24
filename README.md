@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou Allifer Enrique!
 
-<!--
-**allifer28/allifer28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre Mim
 
-Here are some ideas to get you started:
+🎓 **Nome:** Allifer Enrique  
+🗓 **Idade:** 20 Anos  
+📚 **Educação:**  
+ * 🎓 Cursando Análise e Desenvolvimento de Sistemas na **Unicesumar**  
+ * 🔧 Técnico em Mecatrônica  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 O que Estou Estudando
+
+Atualmente, estou me dedicando a aprimorar minhas habilidades nas seguintes tecnologias:
+
+- 🌐 **HTML**
+- 🎨 **CSS**
+- ⚙️ **JavaScript**
+
+## 📫 Como Me Encontrar
+
+Você pode me encontrar nas seguintes plataformas:
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allifer-enrique-088549201/)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allifer4@hotmail.com)
+
+---
+
+⭐ Obrigado pela visita! 😊
