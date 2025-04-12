@@ -3,7 +3,7 @@
 ## 🚀 Sobre Mim
 
 🎓 **Nome:** Allifer Enrique  
-🗓 **Idade:** 20 Anos  
+🗓 **Idade:** 21 Anos  
 📚 **Educação:**  
  * 🎓 Cursando Análise e Desenvolvimento de Sistemas na **Unicesumar**  
  * 🔧 Técnico em Mecatrônica  
