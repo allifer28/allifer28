@@ -6,7 +6,7 @@
 🗓 **Idade:** 21 Anos
 📚 **Educação e Formação:**
   * 🎓 Cursando Análise e Desenvolvimento de Sistemas na **Unicesumar**
-  * 📚 Em aprimoramento em **Python** no **SENAI**
+  * 📚 Em aprimoramento em **Desenvolvimento WEB** e **Python** no **SENAI**
   * 🔧 Técnico em Mecatrônica
 
 Sou um entusiasta da programação, sempre em busca de novos conhecimentos e desafios para aplicar minhas habilidades e crescer na área de desenvolvimento.
