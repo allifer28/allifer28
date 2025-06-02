@@ -2,11 +2,14 @@
 
 ## 🚀 Sobre Mim
 
-🎓 **Nome:** Allifer Enrique  
-🗓 **Idade:** 21 Anos  
-📚 **Educação:**  
- * 🎓 Cursando Análise e Desenvolvimento de Sistemas na **Unicesumar**  
- * 🔧 Técnico em Mecatrônica  
+🎓 **Nome:** Allifer Enrique
+🗓 **Idade:** 21 Anos
+📚 **Educação e Formação:**
+  * 🎓 Cursando Análise e Desenvolvimento de Sistemas na **Unicesumar**
+  * 📚 Em aprimoramento em **Python** no **SENAI**
+  * 🔧 Técnico em Mecatrônica
+
+Sou um entusiasta da programação, sempre em busca de novos conhecimentos e desafios para aplicar minhas habilidades e crescer na área de desenvolvimento.
 
 ## 🌱 O que Estou Estudando
 
@@ -15,6 +18,7 @@ Atualmente, estou me dedicando a aprimorar minhas habilidades nas seguintes tecn
 - 🌐 **HTML**
 - 🎨 **CSS**
 - ⚙️ **JavaScript**
+- 🐍 **Python**
 
 ## 📫 Como Me Encontrar
 
