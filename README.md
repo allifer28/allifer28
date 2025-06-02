@@ -20,7 +20,7 @@ Atualmente, estou me dedicando a aprimorar minhas habilidades nas seguintes tecn
 
 Você pode me encontrar nas seguintes plataformas:
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/allifer-enrique-088549201/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allifer-enrique-088549201/)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allifer180@hotmail.com)
 
 ---
